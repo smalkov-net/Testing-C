@@ -10,6 +10,7 @@ https://gcc.gnu.org/onlinedocs/gcc-5.1.0/jit/intro/tutorial01.html
 ## errors
 
 "xcode-select: note: No developer tools were, requesting install..."
+
 <img width="495" alt="Screenshot0" src="https://github.com/user-attachments/assets/a8c5d2e9-2458-493c-8302-bb3c8fe8b4e2" />
 
 - install xcode or download https://developer.apple.com/xcode/
