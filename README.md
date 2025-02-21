@@ -23,3 +23,6 @@ https://gcc.gnu.org/onlinedocs/gcc-5.1.0/jit/intro/tutorial01.html
 ![noname](https://github.com/user-attachments/assets/a37ecbd2-479d-42e7-b12f-5bf18f75f0d1)
 
 - install command-line tools https://learn.microsoft.com/en-us/windows/wsl/about
+
+![Screenshot3](https://github.com/user-attachments/assets/43cb3745-c68d-48db-956e-96206b13e4c5)
+
