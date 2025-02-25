@@ -9,15 +9,9 @@ As René Decartes famously said, "Cogito, ergo sum"(I am thinking, therefore I e
 To verify the existence of these libraries, the best approach is to run a program that works but doesn't actually do anything.
 
 ## How to Get Started
-To launch the program, just follow the instrictions [here](http://hello.c/).
+To launch the program, just follow the instrictions [here](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/jit/intro/tutorial01.html).
 
 happy testing!
-
-
-hello, world(terminal program)
-
-link:
-https://gcc.gnu.org/onlinedocs/gcc-5.1.0/jit/intro/tutorial01.html
 
 
 
