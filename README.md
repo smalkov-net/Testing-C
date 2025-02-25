@@ -9,11 +9,24 @@ As René Decartes famously said, "Cogito, ergo sum"(I am thinking, therefore I e
 To verify the existence of these libraries, the best approach is to run a program that works but doesn't actually do anything.
 
 ## How to Get Started
-To launch the program, just follow the instrictions [here](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/jit/intro/tutorial01.html).
+To launch the program, just follow the instrictions
+
+Here's a toy "hello world" program that uses the library to synthesize a call to `printf`.
+
+Assuming you have the jit library installed, build the test program using:
+**gcc testingC.c -o testingC -lgccjit**
+You should then be able to run the build program:
+**./testingC**
+hello world
+
+
+
+ [here](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/jit/intro/tutorial01.html).
 
 happy testing!
 
-<a href="https://gcc.gnu.org/onlinedocs/gcc-5.1.0/jit/intro/tutorial01.html" target="_blank">here</a>
+
+
 
 
 
