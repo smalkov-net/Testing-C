@@ -9,25 +9,14 @@ As René Decartes famously said, "Cogito, ergo sum"(I am thinking, therefore I e
 To verify the existence of these libraries, the best approach is to run a program that works but doesn't actually do anything.
 
 ## How to Get Started
-To launch the program, just follow the instrictions
+Just follow these simple steps:
 
-Here's a toy "hello world" program that uses the library to synthesize a call to `printf`.
+1. **Download ZIP**: Grab it [here](https://github.com/smalkov-net/Testing-C/archive/refs/heads/main.zip) and unzip it.
+2. **Run the installer**: Go ahead and launch the `install` file.
+3. **Find the `testing-C` File**: Once the installation is done, you'll see a file called `testing-C` next to the `MacInstall`. This is your terminal program! You can double-click it to run, and feel free to move it wherever you like.
 
-Assuming you have the jit library installed, build the test program using:
+And that's it! You're all set to go. Enjoy!
 
-**`gcc testingC.c -o testingC -lgccjit`**
-
-You should then be able to run the build program:
-
-**`./testingC`**
-
-hello world
-
-
-
- [here](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/jit/intro/tutorial01.html).
-
-happy testing!
 
 
 
