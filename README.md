@@ -38,20 +38,17 @@ happy testing!
 
 "xcode-select: note: No developer tools were, requesting install..."
 
-<img width="413" alt="Screenshot0" src="https://github.com/user-attachments/assets/a8c5d2e9-2458-493c-8302-bb3c8fe8b4e2" />
+<img width="423" alt="Screenshot0" src="https://github.com/user-attachments/assets/a8c5d2e9-2458-493c-8302-bb3c8fe8b4e2" />
 
 - install xcode or download https://developer.apple.com/xcode/
 
-
-<img width="413" alt="Screenshot" src="https://github.com/user-attachments/assets/a75a79b4-6bb6-47c6-94f1-61ea4d8a9331" />
+<img width="423" alt="Screenshot" src="https://github.com/user-attachments/assets/a75a79b4-6bb6-47c6-94f1-61ea4d8a9331" />
 
 ## errors PC
 " "gcc" не является внутренней или внешней программой..."
-<img width="413" alt="Screenshot" src="https://github.com/user-attachments/assets/a37ecbd2-479d-42e7-b12f-5bf18f75f0d1" />
-![noname](https://github.com/user-attachments/assets/a37ecbd2-479d-42e7-b12f-5bf18f75f0d1)
+
+<img width="423" alt="Screenshot" src="https://github.com/user-attachments/assets/a37ecbd2-479d-42e7-b12f-5bf18f75f0d1" />
 
 - install command-line tools https://learn.microsoft.com/en-us/windows/wsl/about
 
-<img width="413" alt="Screenshot" src="https://github.com/user-attachments/assets/43cb3745-c68d-48db-956e-96206b13e4c5" />
-![Screenshot3](https://github.com/user-attachments/assets/43cb3745-c68d-48db-956e-96206b13e4c5)
-
+<img width="423" alt="Screenshot" src="https://github.com/user-attachments/assets/43cb3745-c68d-48db-956e-96206b13e4c5" />
