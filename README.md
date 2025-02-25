@@ -38,7 +38,7 @@ happy testing!
 
 "xcode-select: note: No developer tools were, requesting install..."
 
-<img width="495" alt="Screenshot0" src="https://github.com/user-attachments/assets/a8c5d2e9-2458-493c-8302-bb3c8fe8b4e2" />
+<img width="413" alt="Screenshot0" src="https://github.com/user-attachments/assets/a8c5d2e9-2458-493c-8302-bb3c8fe8b4e2" />
 
 - install xcode or download https://developer.apple.com/xcode/
 
@@ -47,9 +47,11 @@ happy testing!
 
 ## errors PC
 " "gcc" не является внутренней или внешней программой..."
+<img width="413" alt="Screenshot" src="https://github.com/user-attachments/assets/a37ecbd2-479d-42e7-b12f-5bf18f75f0d1" />
 ![noname](https://github.com/user-attachments/assets/a37ecbd2-479d-42e7-b12f-5bf18f75f0d1)
 
 - install command-line tools https://learn.microsoft.com/en-us/windows/wsl/about
 
+<img width="413" alt="Screenshot" src="https://github.com/user-attachments/assets/43cb3745-c68d-48db-956e-96206b13e4c5" />
 ![Screenshot3](https://github.com/user-attachments/assets/43cb3745-c68d-48db-956e-96206b13e4c5)
 
