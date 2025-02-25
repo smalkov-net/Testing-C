@@ -14,9 +14,9 @@ To launch the program, just follow the instrictions
 Here's a toy "hello world" program that uses the library to synthesize a call to `printf`.
 
 Assuming you have the jit library installed, build the test program using:
-**gcc testingC.c -o testingC -lgccjit**
+**`gcc testingC.c -o testingC -lgccjit`**
 You should then be able to run the build program:
-**./testingC**
+**`./testingC`**
 hello world
 
 
