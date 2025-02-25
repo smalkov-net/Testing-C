@@ -21,8 +21,6 @@ And that's it! You're all set to go. Enjoy!
 
 
 
-
-
 ## errors Mac
 
 "xcode-select: note: No developer tools were, requesting install..."
