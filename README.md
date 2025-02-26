@@ -13,7 +13,7 @@ Just follow these simple steps:
 
 1. **Download ZIP**: Grab it [here](https://github.com/smalkov-net/Testing-C/archive/refs/heads/main.zip) and unzip it.
 
-**`hello`**
+`hello`
 **`curl -L -o project.zip https://github.com/smalkov-net/Testing-C/archive/refs/heads/main.zip`**
 
 
