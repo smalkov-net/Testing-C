@@ -21,7 +21,7 @@ Once your Terminal is open, let's navigate to your Desktop. Type the following c
 
 ```bash
 cd ~/Desktop
-
+```
 
 ### Step 3: Download and Install Testing-C
 Now, let's download the Testing-C project and get it set up. Just copy and paste this whole command into your Terminal and hit Enter:
