@@ -1,5 +1,7 @@
 # Welcome to testing
 
+Hey, there!
+
 **`Testing-C`** is your go-to tool for checking the essential libraries needed to install terminal programs written in C.
 
 Onece you run it, you'll quickly find out if the necessary files are in place before you dive into the installation process - or if something's gone awry.
@@ -9,24 +11,31 @@ As René Decartes famously said, "Cogito, ergo sum"(I am thinking, therefore I e
 To verify the existence of these libraries, the best approach is to run a program that works but doesn't actually do anything.
 
 ## Get Started on Mac
-Just follow these simple steps:
 
-1. **Download ZIP**:
+Ready to get started with Testing-C? Just follow these simple steps, and you'll be good to go!
 
-`curl -L -o project.zip https://github.com/smalkov-net/Testing-C/archive/refs/heads/main.zip`
+### Step 1: Open Your Terminal
+First things first, let's open up your Terminal. You can usually find it in your Applications folder under Utilities, or just search for "Terminal" using Spotlight(press `Cmd + Space` and type "Terminal").
+### Step 2: Go to Your Desktop
+Once your Terminal is open, let's navigate to your Desktop. Type the following command and hit Enter:
 
-and unzip it
+```bash
+cd ~/Desktop
 
-`unzip project.zip`
+### Step 3: Download and Install Testing-C
+Now, let's download the Testing-C project and get it set up. Just copy and paste this whole command into your Terminal and hit Enter:
 
-`cd Testing-C-main`
+```bash
+curl -L -o Testing-C.zip https://github.com/smalkov-net/Testing-C/archive/refs/heads/main.zip && \
+unzip Testing-C.zip && \
+chmod +x Testing-C-main/MacInstall.command && \
+./Testing-C-main/MacInstall.command && \
+mv Testing-C-main/testing-C . && \
+rm -r Testing-C-main Testing-C.zip
 
-`chmod +x MacInstall.command`
+### Step 4 **Find the `testing-C` File**: Once the installation is done, you'll see a file called `testing-C` on Desktop. This is your terminal program! You can double-click it to run, and feel free to move it wherever you like.
 
-`./MacInstall.command`
 
-2. **Run the installer**: Go ahead and launch the `install` file.
-3. **Find the `testing-C` File**: Once the installation is done, you'll see a file called `testing-C` next to the `MacInstall`. This is your terminal program! You can double-click it to run, and feel free to move it wherever you like.
 
 And that's it! You're all set to go. Enjoy!
 
