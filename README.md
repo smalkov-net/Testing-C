@@ -33,10 +33,9 @@ chmod +x Testing-C-main/MacInstall.command && \
 ./Testing-C-main/MacInstall.command && \
 mv Testing-C-main/testing-C . && \
 rm -r Testing-C-main Testing-C.zip
+```
 
 ### Step 4 **Find the `testing-C` File**: Once the installation is done, you'll see a file called `testing-C` on Desktop. This is your terminal program! You can double-click it to run, and feel free to move it wherever you like.
-
-
 
 And that's it! You're all set to go. Enjoy!
 
