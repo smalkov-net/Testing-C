@@ -19,6 +19,12 @@ and unzip it
 
 `unzip project.zip`
 
+`cd Testing-C-main`
+
+`chmod +x MacInstall.command`
+
+`./MacInstall.command`
+
 2. **Run the installer**: Go ahead and launch the `install` file.
 3. **Find the `testing-C` File**: Once the installation is done, you'll see a file called `testing-C` next to the `MacInstall`. This is your terminal program! You can double-click it to run, and feel free to move it wherever you like.
 
