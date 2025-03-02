@@ -26,6 +26,22 @@ gcc --version
 ```
 Если терминал не показал версию [GCC](https://gcc.gnu.org/) или [Clang](https://clang.llvm.org/), перейдите в раздел [Ошибки](#ошибки), исправте и продолжите установку заново.
 
+### Шаг3: Загрузите и установите Testing-C
+Теперь давайте загрузим проект Testing-C и настроем его. Просто скопируйте и вставьте всю эту команду в свой терминал и нажмите Enter:
+
+```bash
+curl -L -o Testing-C.zip https://github.com/smalkov-net/Testing-C/archive/refs/heads/main.zip && \
+unzip Testing-C.zip && \
+chmod +x Testing-C-main/MacInstall.command && \
+./Testing-C-main/MacInstall.command && \
+mv Testing-C-main/testing-C . && \
+rm -r Testing-C-main Testing-C.zip
+```
+
+### Шаг 4: **Найдите файл `testing-C`**
+После завершения установки вы увидете файл с именем `testing-C` на рабочем столе. Это программа терминала! Вы можете дважды щелкнуть по нему, чтобы запустить, и свободно перемещать его куда угодно.
+
+Вот и всё! Всё готово. Наслаждайтесь!
 
 
 
