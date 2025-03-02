@@ -1,4 +1,4 @@
-[English](#welcome-to-testing)
+[English](#welcome-to-testing) |
 # Добро пожаловать в тестирование
 Привет!
 
