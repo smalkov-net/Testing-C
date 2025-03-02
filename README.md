@@ -1,3 +1,4 @@
+[English](#welcome-to-testing)
 # Добро пожаловать в тестирование
 Привет!
 
@@ -47,7 +48,10 @@ rm -r Testing-C-main Testing-C.zip
 
 
 
+# Welcome to testing
+Hey, there!
 
+**`Testing-C`** is go-to tool for checking the essential
 
 
 
